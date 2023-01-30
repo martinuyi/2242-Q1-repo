@@ -1,0 +1,2 @@
+Good morning sir, Please I did a Git commit for all my questions but I could not find them when I wanted to push my code into my Github repository. 
+BUT i cannot explain why I could not find them.
